@@ -7,6 +7,6 @@ Crowd Counting is a CV & DL technique to estimate the number of people in crowde
 ▌Results
 
 
-  ![image](Predicted Crowd Counting and Density Map.PNG)   
+  ![image](Predicted Crowd Counting and Density Map.png)   
  
   * Predicted Crowd Counting and Density Map
